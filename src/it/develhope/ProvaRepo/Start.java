@@ -1,7 +1,0 @@
-package it.develhope.ProvaRepo;
-
-public class Start {
-    public static void main(String[] args) {
-        System.out.println("--------------------");
-    }
-}
